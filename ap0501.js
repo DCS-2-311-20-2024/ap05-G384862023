@@ -152,7 +152,7 @@ function init() {
   
   // 自販機2の位置の設定
   vender02.position.y = 0.9;
-  vender02.position.x = 1.2;
+  vender02.position.x = 1.1;
 
   // 自販機2をシーンに追加する
   scene.add(vender02);
